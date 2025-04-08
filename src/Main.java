@@ -45,6 +45,20 @@ public class Main {
         var remeinderOfDivision = boxer2 % boxer1;
         System.out.println(remeinderOfDivision);
 
+        var weightFirstBoxer = 78.2;
+        var weightSecondBoxer = 82.7;
+        var remainder = weightSecondBoxer % weightFirstBoxer;
+        System.out.println("Остаток от деления: " + remainder);
+        var hour = 640 / 8;
+        System.out.println(hour);
+        var employee = 80 + 94;
+        System.out.println(employee);
+        var numberOfHours = 174 * 8;
+        System.out.println(numberOfHours);
+
+
+
+
 
 
 
